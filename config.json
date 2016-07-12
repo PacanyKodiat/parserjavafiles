@@ -1,0 +1,19 @@
+﻿{
+  "HTMLFilesDir": "html",
+  "JAVAFilesDir": "source",
+  "SaveFilesDir": "converted",
+  "FormatReadFile": ".java",
+  "FormatOriginalNameFile": ".html",
+  "MessageContentNotFound": "Content not found",
+  "original":[" ","-","ć","ś","ó","ą","ę","ń","ź","ł","ż"],
+  "replace":["","_","_","_","_","_","_","_","_","_","_"],
+  "normalreplace":[" ","","c","s","o","a","e","n","z","l","z"],
+  "cutContentStart":"@Test",
+  "cutContentEnd":"@After",
+  "searchFunctionError": " isn't correct or converted already!",
+  "searchFunctionError2": " is corrupted!",
+  "succesfull":"files converted!",
+  "fileNotFound":"html file not found",
+  "errorFound": "// ERROR:",
+  "countStrRemoveAfterKroku":2
+}
